@@ -17,7 +17,9 @@ For Decoder we use LSTM. Long Short-Term Memory (LSTM) networks are a modified v
    
    2> Shouryaman Singh
    
-   3> Hritabhash Ray
+   3> Harshit Khatuwala
+   
+   4> Hritabhash Ray
 ## Final Deployed Model
 
 Users can upload the images & the model predicts a caption depicting the image.
